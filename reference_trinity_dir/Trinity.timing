@@ -1,0 +1,21 @@
+Statistics:
+===========
+Trinity Version:      Trinity-v2.4.0
+Compiler:             GCC
+Trinity Parameters:   --seqType fq --single Reads/correct_out1_ref.fq --single Reads/correct_out2_ref.fq --max_memory 3G --normalize_reads --output reference_trinity_dir
+Unpaired read mode
+ Input data
+  Single.fasta  3 MByte
+  Number of unique KMERs: 407552
+  Number of reads:        0 Output data
+  Trinity.fasta 0 MByte
+
+Runtime
+=======
+Start:       Mon Sep 18 15:36:16 CEST 2017
+End:         Mon Sep 18 15:53:53 CEST 2017
+Trinity   1057 seconds
+  Inchworm   16 seconds
+  Chrysalis  1030 seconds
+  Butterfly  0 seconds
+  Rest       11 seconds

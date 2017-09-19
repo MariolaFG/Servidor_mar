@@ -1,0 +1,20 @@
+@HD	VN:1.5
+@SQ	SN:TRINITY_DN1_c0_g1_i1	LN:202	M5:b6b38e840624a3d34d8ecabe2a7fa1fa	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN4_c0_g1_i1	LN:204	M5:1f77a25ab5d58f269b966409374ea92b	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN4_c3_g1_i1	LN:18990	M5:e400e75a07ca84b0c419033656cef19b	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN4_c3_g2_i1	LN:10614	M5:80d713b391462bb01ee3c41d07ac80fc	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c0_g1_i1	LN:240	M5:97f4167b26f0f4421411cd1b779a1fe5	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c3_g1_i1	LN:312	M5:64804c5584ef5d7206122f5638bdf068	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c4_g1_i1	LN:299	M5:db3c4311f4c391234c8a914e84d2042a	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c5_g1_i1	LN:258	M5:eaa81da8387207552819addc5a6d2497	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c6_g1_i1	LN:383	M5:26ba113159ab13c82ea7250766959416	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c7_g1_i1	LN:271	M5:9ce6b6504a090d0136b6cd5cd4e8df38	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c8_g1_i1	LN:541	M5:92febbcc4afad75abf064488a09fce54	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c9_g1_i1	LN:360	M5:fad97c4843bc4da529be5188b998dbf5	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c10_g1_i1	LN:226	M5:59993e05448b7d0ed6724b519fb5ac3c	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c11_g1_i1	LN:262	M5:3a4320f2fb18df22ee01848fa65f521e	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c12_g1_i1	LN:379	M5:a5e878f225c44217f871935377c6e7f1	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c13_g1_i1	LN:326	M5:978ebf1082c8962828b447940270fb5b	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c14_g1_i1	LN:295	M5:20d9b8fcfa6fcf69a1642a3b7eead697	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c15_g1_i1	LN:267	M5:7a8c6e4d3323383f48d030b4d3cd8082	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
+@SQ	SN:TRINITY_DN3_c16_g1_i1	LN:270	M5:1b8e677c05ca4ef265eb426a6066cd30	UR:file:/mnt/scratch/ferre024/SNiPloid/trinity_out_dir/Trinity.fasta
